@@ -28,7 +28,7 @@ I mentor and instruct students in programming with Ruby, Rails and Javascript. I
 
 ### 2018-Present Expert Developer @ Codeable
 
-I am an expert developer at Codeable which provides custom programming consultants for the WordPress platform. 
+I am an expert developer at Codeable which provides custom programming consultants for the WordPress platform. I have completed over 89 projects and maintain a 5 Star rating.
 
 ### 2018-2019 Senior PHP Developer @ Orange (France Telecom)
 
